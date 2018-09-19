@@ -1,0 +1,53 @@
+#oh{
+    background-image: url("C:\Users\tonyb\lc101\html-me-something\images\longAbstract.jpg");
+    background-color:rgb(30,30,30);
+    
+}
+#space{
+    margin-bottom: 10px;
+}
+div.topStyle{
+    position: -wbkit-sticky;
+    position: sticky;
+    top:0;
+    
+    background-color: #4d4d4d;
+    text-align: center;
+    padding: .05px 0px .05px 0px;
+
+    background-image: url("C:\Users\tonyb\lc101\html-me-something\images\longAbstract.jpg");
+
+}
+h1.topStyle{
+    margin-bottom: 0 auto;
+}
+.p{
+    text-align: center;
+}
+#body{
+    background-image: linear-gradient( rgb(30,30,30),black);
+
+    color: white;
+    background-color:rgb(30,30,30);
+    text-align: center;
+    
+}
+
+#footer{
+    background-color: black;
+    width:50%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    bottom: 0;
+}
+.center{
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h2{
+  font-family:sans-serif;  
+}
